@@ -1,0 +1,36 @@
+.productList {
+  margin:0;
+  padding:0;
+  list-style: none;
+  width:40%;
+  display:inline-block;
+  vertical-align: top;
+}
+
+.productList li {
+  font-size:21px;
+  line-height: 21px;
+  border-bottom:#ccc solid 1px;
+  padding:6px 10px;
+}
+
+.productList li img {
+  width:48px;
+  vertical-align: middle;
+  margin-right:10px;
+}
+.price {
+  float:right;
+  margin-top:10px;
+}
+.addBasket {
+  float:right;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+.basket {
+  display:inline-block;
+  margin-left:40px;
+  vertical-align: top;
+}
