@@ -1,4 +1,4 @@
-#React & Redux ile basit bir sepet örneği
+# React & Redux ile basit bir sepet örneği
 
 ## Canlı yayın tekrar videosu için:
 [https://www.youtube.com/watch?v=9Iqbml5UZ3I](https://www.youtube.com/watch?v=9Iqbml5UZ3I)
